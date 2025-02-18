@@ -1,0 +1,7 @@
+users in this project and passwords
+billy-manager-lemon789!-c8489ad16824b018ba76cc39438eae42b5f4c3d6
+andrea-manager-lemon789!-a7382c82a4ebfb7cb76ce2bd50927b1b4f1eddca
+joseph-delivery-lemon789!-cec1a7160e183c6f923d8c64c8d178c81a9f034c
+bob-delivery-lemon789!-509d293d1ad146dc228f5b508bf6aece0a83a632
+admin-lemon@789!--customer--ee15271dd399d5a3ea54a7072894bce69ffb164d
+MAYBE tokens need to be generated again IDK??
